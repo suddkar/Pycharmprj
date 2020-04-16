@@ -1,12 +1,16 @@
 import pygame
 pygame.init()
 
-x="Hello Austalia"
+x="**************Hello Austalia***************"
 print(x)
 print(x)
 print(x)
 
+
 # test222222
+
+# test11111111
+
 
 M1="Urgent Attention"
 
