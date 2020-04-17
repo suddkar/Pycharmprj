@@ -6,14 +6,17 @@ print(x)
 print(x)
 print(x)
 
+Y="Pandemic Situation"
+print(Y)
+
 
 # test222222
 
 # test11111111
 
 
-M1="Urgent Attention"
+M2="Urgent Attention"
 
-print(M1)
-print(M1)
-print(M1)
+print(M2)
+print(M2)
+print(M2)
